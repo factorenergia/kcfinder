@@ -1,8 +1,6 @@
 <?php
 
-/** Bulgarian localization file for KCFinder
-  * author: Pavel Tzonkov <sunhater@sunhater.com>
-  */
+/** Bulgarian localization file for KCFinder*/
 
 $lang = array(
 

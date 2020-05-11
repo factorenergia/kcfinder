@@ -9,8 +9,7 @@
   * @copyright 2010-2014 KCFinder Project
   *   @license http://opensource.org/licenses/GPL-3.0 GPLv3
   *   @license http://opensource.org/licenses/LGPL-3.0 LGPLv3
-  *      @link http://kcfinder.sunhater.com
-  */
+*/
 
 class LaravelAdministrator {
     protected static $authenticated = false;

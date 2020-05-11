@@ -2,14 +2,10 @@
 
 /** This file is part of KCFinder project
   *
-  *      @desc This file is included first, before each other
+  *   @desc This file is included first, before each other
   *   @package KCFinder
   *   @version 3.12
-  *    @author Pavel Tzonkov <sunhater@sunhater.com>
-  * @copyright 2010-2014 KCFinder Project
-  *   @license http://opensource.org/licenses/GPL-3.0 GPLv3
-  *   @license http://opensource.org/licenses/LGPL-3.0 LGPLv3
-  *      @link http://kcfinder.sunhater.com
+
   *
   * This file is the place you can put any code (at the end of the file),
   * which will be executed before any other. Suitable for:

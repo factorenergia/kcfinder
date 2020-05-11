@@ -1,7 +1,4 @@
 /*! jQuery adapter for KCFinder
- *  http://kcfinder.sunhater.com
- *  Pavel Tzonkov <sunhater@sunhater.com>
- */
 /*  BASE USAGE:
  *     <div id="filemanager" style="width:700px;height:400px"></div>
  *     <script>
